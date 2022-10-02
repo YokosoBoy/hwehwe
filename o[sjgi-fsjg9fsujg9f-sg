@@ -1,0 +1,4 @@
+local CustomLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/YokosoBoy/hwehwe/main/973w4y5us9rngsudryt7rwy"))()
+local SET_UP = CustomLoader("Thunder Z | Loader", "json",{
+   URL = "https://raw.githubusercontent.com/Pepekx/QwontolFY/main/Fikury.json";
+})
